@@ -1,12 +1,12 @@
 {
-  "Description": "vcastPreview",
-  "Category": "vcast",
-  "Name": "vcastPreview-Preset",
+  "Description": "vc",
+  "Category": "vcast-catenoid-1000k",
+  "Name": "vcast-catenoid-1000k-h",
   "Settings": {
     "VideoDescription": {
-      "Width": 1280,
+      "Width": 720,
       "ScalingBehavior": "DEFAULT",
-      "Height": 720,
+      "Height": 1080,
       "TimecodeInsertion": "DISABLED",
       "AntiAlias": "ENABLED",
       "Sharpness": 50,
@@ -23,7 +23,7 @@
           "GopSize": 30,
           "Slices": 1,
           "GopBReference": "DISABLED",
-          "MaxBitrate": 2000000,
+          "MaxBitrate": 3000000,
           "SlowPal": "DISABLED",
           "ParDenominator": 1,
           "SpatialAdaptiveQuantization": "ENABLED",
