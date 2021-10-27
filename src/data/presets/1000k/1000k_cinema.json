@@ -4,9 +4,9 @@
   "Name": "vcast-catenoid-1000k-cinema",
   "Settings": {
     "VideoDescription": {
-      "Width": 1280,
+      "Width": 720,
       "ScalingBehavior": "DEFAULT",
-      "Height": 548,
+      "Height": 720,
       "TimecodeInsertion": "DISABLED",
       "AntiAlias": "ENABLED",
       "Sharpness": 50,
